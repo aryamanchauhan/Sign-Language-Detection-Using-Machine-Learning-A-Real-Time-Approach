@@ -1,7 +1,8 @@
 ## Fraud Detection in E-Commerce Transactions Using Machine Learning
 
 
-This repository contains the code and resources for the research paper "Fraud Detection in E-Commerce Transactions Using Machine Learning." The project involves the development of machine learning models to detect fraudulent transactions in e-commerce platforms.
+This repository contains the code and resources for the research paper "Sign Language Detection Using Machine Learning:
+A Real-Time Approach". The project involves the development of machine learning models to detect Sign Language by individuals in real world systems.
 
 
 ![image](https://github.com/aryamanchauhan/Sign-Language-Detection-Using-Machine-Learning-A-Real-Time-Approach/assets/132805331/dea4613b-b73e-45d4-97c8-020fd0a6e174)
