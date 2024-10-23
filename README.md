@@ -1,4 +1,4 @@
-## Fraud Detection in E-Commerce Transactions Using Machine Learning
+## Sign-Language-Detection-Using-Machine-Learning-A-Real-Time-Approach
 
 
 This repository contains the code and resources for the research paper "Sign Language Detection Using Machine Learning:
